@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "title": "Harry Potter and the Philosophers Stone",
+    "author": "J.K. Rowling",
+    "publicationDate": 1997,
+    "synopsis": "here is a synopsis lorem ipsum here is a lorem ipsum here is a synopsis lorem ipsum here is a synopsis lorem ipsum",
+    "coverImage": "img.jpeg"
+  },
+  {
+    "id": 1,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "publicationDate": 1998,
+    "synopsis": "here is a synopsis lorem ipsum here is a lorem ipsum here is a synopsis lorem ipsum here is a synopsis lorem ipsum",
+    "coverImage": "img.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "publicationDate": 1999,
+    "synopsis": "here is a synopsis lorem ipsum here is a lorem ipsum here is a synopsis lorem ipsum here is a synopsis lorem ipsum",
+    "coverImage": "img.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter and the Gobelt of Fire",
+    "author": "J.K. Rowling",
+    "publicationDate": 2000,
+    "synopsis": "here is a synopsis lorem ipsum here is a lorem ipsum here is a synopsis lorem ipsum here is a synopsis lorem ipsum",
+    "coverImage": "img.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "publicationDate": 2003,
+    "synopsis": "here is a synopsis lorem ipsum here is a lorem ipsum here is a synopsis lorem ipsum here is a synopsis lorem ipsum",
+    "coverImage": "img.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "publicationDate": 2005,
+    "synopsis": "here is a synopsis lorem ipsum here is a lorem ipsum here is a synopsis lorem ipsum here is a synopsis lorem ipsum",
+    "coverImage": "img.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "publicationDate": 2007,
+    "synopsis": "here is a synopsis lorem ipsum here is a lorem ipsum here is a synopsis lorem ipsum here is a synopsis lorem ipsum",
+    "coverImage": "img.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Dress Your Family in Courdury and Denim",
+    "author": "David Sedaris",
+    "publicationDate": 2004,
+    "synopsis": "here is a synopsis lorem ipsum here is a lorem ipsum here is a synopsis lorem ipsum here is a synopsis lorem ipsum",
+    "coverImage": "img.jpeg"
+  }
+]
